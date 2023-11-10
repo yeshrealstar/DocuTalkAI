@@ -1,5 +1,5 @@
 # DocuTalkAI
-Hackthon Winning Document Information Retreival App
+Hackthon Winning Document Information Retrieval App
 
 
 
