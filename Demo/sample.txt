@@ -1,0 +1,87 @@
+EDUCATION
+ Master’s Degree in Mathematics
+from National Institute of Technology
+Rourkela, 2015 - 2017
+ Bachelor's Degree in Mathematics
+from National Institute of Technology
+Rourkela, 2012 - 2015
+TECHNICAL SKILLS
+ Python (Programming Language)  Amazon Web Services (AWS)  Microsoft Azure
+ Google Cloud Platform (GCP)  Deep Learning
+ Angular  MLOPS
+ AIOPS
+ SQ
+CORE COMPETENCIES
+ Predictive Analytics  Data Visualization
+ Big Data Management  Business Intelligence
+ Cloud Computing
+ Information Retrieval  Predictive Modeling
+ Optimization Techniques  Risk Analysis  Decision Support System
+ Machine Learning
+ Natural Language Processing (NLP)  Artificial Intelligence (AI)  Data Science
+ Data Modelling and Deploying
+Yeshwant Sai Melpati
+Senior Data Scientist | Machine Learning Engineer | AI Developer
+Result-oriented Professional with extensive experience in AI, Data Science and Machine
+Learning, targeting projects as a AI/ML Product Lead in any organization of repute to
+take up challenging roles for delivering effective outcome
+yeshuthecool@gmail.com https://linkedin.com/in/yeshwanthsai/
++91-8143090222 https://github.com/yeshrealstar/
+PROFILE SUMMARY
+ Over 7 years of experience in AI and ML, specializing in developing wide-ranging
+Machine Learning Products across various industries.  Spearheading the advancement of AI/ML products at AlgoLeap Technologies, with a
+focus on creating and upholding cutting-edge solutions for client Vialto-Partners, driving technological progress.  Proficient in developing Traditional ML Models, Advanced Algorithms, Generative
+AI, and Data Science techniques.  Recognized for automating lead capture and market penetration processes, saving
+hundreds of hours weekly.  Skilled in Statistics, Mathematics, and implementing Multi-Layered Information
+Retrieval architecture using LLMs and Generative AI technologies with Azure.  Successfully reduced campaign costs by 25% through the development and deployment
+of data pipelines and model building.  Proven track record of enhancing information retrieval accuracy to 98% through AI
+product development.  Expertise in AI technologies, including AWS Lex, Google DialogFlow, Microsoft Bot
+Framework, Azure ML, and Rasa, driving a 25% improvement in customer engagement
+WORK EXPERIENCE
+AI/ML Product Lead | AlgoLeap Technologies | Jan 2023 - Present
+Responsibilities:  Pioneering the conceptualization, creation, and upkeep of Machine Learning and AI
+solutions for client Vialto-Partners.  Leading a team of 10 Data Scientists in implementing cutting-edge Information Retrieval
+architecture using LLMs and Generative AI technologies with Azure.  Collaborating with cross-functional teams to ensure seamless product development and
+deployment.  Conducting regular performance evaluations and provided mentorship to team
+members.  Implementing best practices in AI product development to drive innovation and
+efficiency.  Steering the successful execution of AI projects, ensuring alignment with client
+objectives.  Conducting market research and analysis to identify emerging trends and technologies.  Ensuring compliance with industry standards and regulations in all AI initiatives. Highlights:  Achieved a 25% reduction in campaign costs by developing and deploying data pipelines
+and Traditional ML models.  Enhanced lead capture and market penetration processes, resulting in significant time
+savings.  Implemented Multi-Layered Information Retrieval architecture, improving data
+retrieval accuracy to 98%. Senior Data Scientist | Foundation AI | Hyderabad | Mar 2022 - Jan 2023
+Responsibilities:  Engineered and optimized AI-powered document information retrieval system for
+effective parsing in the Health Domain.  Developed a complex architecture for building multilayered ML models to enhance OCR
+efficiency.  Collaborated with cross-functional teams to ensure seamless integration of AI solutions.
+PROJECTS
+ BridgeBizz AI - AI Data product
+automating lead capture and market
+with a personalized AI conversation, saving hundreds of hours of manual
+labor weekly.  Docu-Talk AI - Built an AI product to
+revolutionize information extraction
+from documents, achieving 98%
+accuracy.  I Fusion - Developed an analytic
+platform, reducing campaign costs by
+25% for SITO company
+ Projects2Profiles - Developed an HR
+application, given a software product
+information and gives list complete
+and competent profiles to form team. ACHIEVEMENTS
+ Won CBRE Innovate AI Hackathon
+ Won SyndInnovate Hackathon
+ Won Innominds AI Hackathon
+PERSONAL DETAILS
+ D.O.B: March 4 1994.  Address: Hyderabad, TS. India.  Languages Known: English, Hindi, Telugu.
+ Conducted data analysis and interpretation to drive strategic decision-making.  Provided technical expertise and guidance on AI projects.  Contributed to the development of innovative AI solutions to meet client requirements.  Conducted performance testing and optimization of AI algorithms.  Ensured data security and privacy compliance in all AI initiatives. Highlights:  Successfully improved OCR efficiency and document parsing accuracy.  Implemented a multilayered ML model, enhancing information retrieval processes.  Contributed to the development of AI solutions tailored to the Health Domain. Data Scientist | SmartBots | Mar 2019 - Jan 2021
+Responsibilities:  Designed & implemented cutting-edge AI technology solutions, including Chat-bots and
+AI models.  Utilized AWS Lex, Google DialogFlow, Microsoft Bot Framework, Azure ML, and Rasa for
+AI development.  Analyzed customer engagement data to drive AI model enhancements.  Collaborated with clients to understand requirements & deliver customized AI
+solutions.  Conducted AI model training and optimization to improve performance.  Provided technical support and training to internal teams on AI technologies.  Conducted AI research and development to drive innovation and competitiveness. Highlights:  Increased customer engagement by 25% through the implementation of AI solutions.  Developed and deployed AI models tailored to the Healthcare, Banking, Fin-tech, and
+Retail domains.  Enhanced AI chat-bot functionality, improving user interaction and satisfaction. Data Scientist | Innominds | Hyderabad | Aug 2017 - Feb 2019
+Responsibilities:  Devised and executed frameworks for Foundational Machine Learning Models utilizing
+PySpark and Angular, collaborating with cross-functional teams to deliver the product
+IFusion, enhancing operational efficiency.  Collaborated with Data Scientists and engineers to deliver product IFusion.  Conducted proof of concept design and development for Predictive Models for client
+SitoMobile.  Provided technical expertise and guidance on AI projects.  Contributed to the development of innovative AI solutions to meet client requirements.  Conducted performance testing and optimization of AI algorithms.  Ensured data security and privacy compliance in all AI initiatives. Highlights:  Secured a 20 million investments for the Predictive Models project.  Enhanced data analysis processes, leading to improved decision-making.  Collaborated with cross-functional teams to deliver innovative AI solutions. CERTIFICATION
+ The Complete Prompt Engineering for AI Boot-camp (2023) - DeepLearning.AI  Open Source Models with Hugging-face - DeepLearning.AI  AWS Certified Machine Learning-Specialty (MLS-C01) – Pluralsight  Machine Learning Operations with Microsoft Azure (MLOps with Azure) 2022
+ Machine Learning Operations with Amazon Web Services (MLOps with AWS)  Machine Learning Operations with Google Cloud Platform (MLOps with GCP)  Large Language Models - Data Bricks  Python for Data Science and Machine Learning - Harvard
+ AI Skills: Basic and Advanced Techniques in Machine Learning
+ Exploring Generative AI  MIT: Fundamentals of Statistics
